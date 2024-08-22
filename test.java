@@ -3,3 +3,4 @@ Teting apps before deployment
   running unit testing
 functional testing
 functional testing developement
+stage testing   
